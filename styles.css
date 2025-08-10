@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+}
+
+#city {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+#temperature {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+#description {
+  font-size: 1.2rem;
+  color: #666;
+}
